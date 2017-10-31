@@ -8,7 +8,7 @@ We're going to use this repository to practice collaborating on a github reposit
 Here's a list of instructors here today:
 - Dan Kerchner
 - Justin Littman
-- Laura Wrubel
+- Kean McDermott
 
 Here is a list of workshop participants here today:
 - **EDIT ME!!**
