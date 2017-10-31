@@ -13,7 +13,7 @@ Here's a list of instructors here today:
 Here is a list of workshop participants here today:
 - Max Starkenburg
 - Kyle Kelly
-- **EDIT ME!!**
+- many other people
 
 
 ![meme about commits](meme.jpg)
