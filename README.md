@@ -11,7 +11,7 @@ Here's a list of instructors here today:
 - Kean McDermott
 
 Here is a list of workshop participants here today:
-- **EDIT ME!!**
+- Max Starkenburg
 
 
 ![meme about commits](meme.jpg)
