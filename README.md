@@ -11,6 +11,7 @@ Here's a list of instructors here today:
 - Laura Wrubel
 
 Here is a list of workshop participants here today:
+- **EDIT ME!!**
 
 
 ![meme about commits](meme.jpg)
